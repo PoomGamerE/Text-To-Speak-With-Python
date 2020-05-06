@@ -1,2 +1,6 @@
-# Text-To-Speak-With-Python
-Text To Speak ระบบสังเคราะห์เสียงด้วยไพธอน
+# Text-To-Speak-With-Python ระบบสังเคราะห์เสียงด้วยไพธอน
+#### วิธีการติดตั้ง
+
+pip install gTTS
+
+pip install playsound
