@@ -7,3 +7,7 @@ pip install playsound
 ```
 pip install gTTS
 ```
+
+## License ([Hushub License](https://github.com/Hushub/License))
+
+Copyright © 2020 Hushub
